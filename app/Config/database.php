@@ -7,7 +7,7 @@ class DATABASE_CONFIG {
 		'host' => 'localhost',
 		'login' => 'root',
 		'password' => '',
-		'database' => 'dev-logger',
+		'database' => 'devlogger',
 		'prefix' => 'tbl_',
 	);
 }
