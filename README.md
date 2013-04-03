@@ -2,8 +2,9 @@ Dev-logger
 ==========
 CakePHP Logger Plugin
 
-Author: Nehal Patel (nehal@tecknic.in)
+Author: Nehal Patel (patelnehal4u@gmail.com, nehal@tecknic.in, nehal@connectech.in)
 
+http://www.connectech.in
 http://www.tecknic.in
 
 license: MIT
