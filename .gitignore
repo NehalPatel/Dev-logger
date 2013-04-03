@@ -1,0 +1,12 @@
+app/tmp/**/*
+app/tmp/cache/**/*
+app/tmp/cache/models/*
+app/webroot/tmp/*
+.settings
+.git
+.settting*
+.build*
+build.*
+.project
+.travis.yml
+nbproject
